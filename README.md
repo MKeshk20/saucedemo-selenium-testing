@@ -32,7 +32,7 @@ This project is an automated test suite for the [SauceDemo](https://www.saucedem
 1. Clone the repository:
    ```bash
    git clone https://github.com/MKeshk20/saucedemo-selenium-testing.git
-   cd sauce-demo-tests
+   cd saucedemo-selenium-testing
 2. Open in IntelliJ or your preferred IDE.
 3. Run the tests via TestNG XML file or directly as TestNG test.
 
